@@ -51,11 +51,6 @@
   background-color: grey;
 }
 
-#expand    
-{
-        
-}
-
 #ex 
 {
     margin-top: 0px;  
@@ -113,7 +108,7 @@
 
 .active {
   background-color:none;
-  color: lightgreen;
+  color: #0bbba0;
 }
 
 .topnav .icon {
