@@ -63,22 +63,10 @@
     background: gray;
     width: auto; height: 50px;
 }
-0
-
-.bg
-{
-    background-image: url("123.jpg");
-    background-attachment: fixed;
-    background-position: center;
-    background-repeat: no-repeat;
-    position: relative;
-    background-size: cover;
-}
-
 
 .bg1
 {
-	  background-image: url("webnew1.jpg");
+    background-image: url("webnew1.jpg");
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -124,8 +112,8 @@
 }
 
 .active {
-  background-color:lightgreen;
-  color: white;
+  background-color:none;
+  color: lightgreen;
 }
 
 .topnav .icon {
