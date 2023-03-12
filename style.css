@@ -55,7 +55,7 @@
 {
     margin-top: 0px;  
     margin-bottom: 30px; 
-    background: gray;
+    background: grey;
     width: auto; height: 50px;
 }
 
@@ -108,7 +108,7 @@
 
 .active {
   background-color: none;
-  color: green blue;
+  color: white;
 }
 
 .topnav .icon {
