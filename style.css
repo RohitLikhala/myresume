@@ -108,7 +108,10 @@
 
 .active {
   background-color: none;
-  color: seagreen;
+  color: white;
+}
+.active :hover {
+  color: #0cbba0;
 }
 
 .topnav .icon {
